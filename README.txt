@@ -2,7 +2,9 @@ Hybrid Trading Indicator (RSI + OBV)
 
 A Python-based hybrid trading indicator that combines Relative Strength Index (RSI) and On-Balance Volume (OBV) to improve signal accuracy by confirming momentum with volume trends.
 
-🔹 Motivation
+
+
+ Motivation
 
 Most traders face a common issue:
 
@@ -18,7 +20,9 @@ OBV provides confirmation (volume-backed moves).
 
 This hybrid approach improves decision-making by filtering out noise.
 
-🔹 Methodology
+
+
+ Methodology
 
 Data Collection
 
@@ -48,7 +52,9 @@ Plotted stock prices with Buy/Sell markers.
 
 Added RSI + OBV subplots for transparency.
 
-🔹 Results
+
+
+Results
 
 Accuracy Improvement: ~18% over standalone RSI.
 
@@ -56,7 +62,9 @@ Fewer false trades: OBV confirmation filters out weak RSI signals.
 
 Scalable Design: Modular implementation allows adding other indicators (MACD, ADX, etc.).
 
-🔹 Tech Stack
+
+
+ Tech Stack
 
 Languages: Python (Pandas, NumPy, Matplotlib)
 
@@ -66,9 +74,7 @@ Methods: Technical analysis, signal generation, backtesting
 
 Version Control: GitHub
 
-🔹 Example Visualization
 
-(Insert generated chart here — price with buy/sell markers, RSI & OBV plots)
 
 🔹 Future Improvements
 
@@ -81,5 +87,6 @@ Implement portfolio backtesting with transaction costs.
 Explore ML-driven indicator weighting for adaptive strategies.
 
 🔹 Quick Pitch
+
 
 Built a hybrid RSI + OBV trading indicator in Python that improves signal accuracy by ~18% over standalone RSI. Designed end-to-end: data sourcing, signal generation, backtesting, visualization, and documentation.
