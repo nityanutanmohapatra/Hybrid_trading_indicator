@@ -76,7 +76,7 @@ Version Control: GitHub
 
 
 
-🔹 Future Improvements
+ Future Improvements
 
 Add risk management rules (stop-loss, take-profit).
 
@@ -86,7 +86,3 @@ Implement portfolio backtesting with transaction costs.
 
 Explore ML-driven indicator weighting for adaptive strategies.
 
-🔹 Quick Pitch
-
-
-Built a hybrid RSI + OBV trading indicator in Python that improves signal accuracy by ~18% over standalone RSI. Designed end-to-end: data sourcing, signal generation, backtesting, visualization, and documentation.
